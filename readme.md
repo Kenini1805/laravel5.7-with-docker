@@ -27,5 +27,4 @@ This image contains:
 * docker exec -it kenini_workspace bash
 * php artisan config:clear
 * php artisan cache:clear
-* php artisan serve
 
