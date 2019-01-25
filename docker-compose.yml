@@ -64,7 +64,7 @@ services:
             - "3306"
         environment:
             MYSQL_DATABASE: kenini
-            MYSQL_USER: kenini
+            MYSQL_USER: root
             MYSQL_PASSWORD: secret
             MYSQL_ROOT_PASSWORD: root
     mysql_test:
